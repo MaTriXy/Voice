@@ -1,5 +1,4 @@
 *.iml
-gradle.properties
 *.apk
 .DS_Store
 captures
@@ -12,9 +11,13 @@ local.properties
 MaterialAudiobookPlayer.iml
 .kobalt
 reports
-*.mp3
-.idea/
 mainframer.sh
 .mainframer
-*.keystore
-signing.properties
+artifacts
+testResults
+Gemfile.lock
+releases
+.transifexrc
+/plugins/.idea/workspace.xml
+/.kotlin
+/.idea/deviceManager.xml
